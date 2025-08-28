@@ -20,7 +20,6 @@ Currently studying **BSc (Hons) Computing & IT** at Arden University, and workin
 
 ## 📚 Current Learning
 - CompTIA A+ (In Progress)  
-- Python for automation  
 - Cybersecurity practices  
 
 ---
